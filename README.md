@@ -2,7 +2,7 @@
 # SLIC__superpixelSegmentation
 超像素分割原算法在windows下mex有error，这是对该算法的修正版本
 ### 说明
-　　SLIC超像素分割在计算机视觉领域有很大的应用，算法是Radhakrishna Achanta等人提出，先后发表下面两篇文章：
+　　超像素分割在计算机视觉领域有很大的应用，其中SLIC算法应用最热门，速度快并且效果非常好，算法是Radhakrishna Achanta等人提出，先后发表下面两篇文章：
 　　【1】Radhakrishna Achanta, Appu Shaji, Kevin Smith, Aurelien Lucchi, Pascal Fua, and Sabine Süsstrunk, 
     SLIC Superpixels Compared to State-of-the-art Superpixel Methods, IEEE Transactions on Pattern Analysis 
     and Machine Intelligence, vol. 34, num. 11, p. 2274 - 2282, May 2012.
