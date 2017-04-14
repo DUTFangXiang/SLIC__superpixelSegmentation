@@ -1,6 +1,6 @@
 
 # SLIC__superpixelSegmentation
-　　超像素分割原算法在windows下mex有error，这是对该算法的修正版本  
+超像素分割原算法在windows下mex有error，这是对该算法的修正版本  
 ### 效果图展示
 ![](https://github.com/DUTFangXiang/SLIC__superpixelSegmentation/blob/master/0007.jpg "输入图像")
 ![](https://github.com/DUTFangXiang/SLIC__superpixelSegmentation/blob/master/0007_SLIC.jpg "对称检测结果")
@@ -18,7 +18,7 @@
           
 ----------------------
 ### 修改：
-　　但是源程序slicmex.c在windows系统下编译是有错误的，主要提示如下：slicmex.c(387) : error C2275: “mwSize”:将此类型用作表达式非法。
+　　官方SLIC算法源程序slicmex.c在windows系统下编译是有错误，主要提示如下：slicmex.c(387) : error C2275: “mwSize”:将此类型用作表达式非法。
   
 　　这是一个很典型的纯c程序的错误。详细修改说明，请翻阅本人博客：
 
