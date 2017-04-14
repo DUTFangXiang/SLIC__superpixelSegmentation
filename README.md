@@ -1,11 +1,9 @@
 
 # SLIC__superpixelSegmentation
-　　超像素分割原算法在windows下mex有error，这是对该算法的修正版本
-  
-----------------------
+　　超像素分割原算法在windows下mex有error，这是对该算法的修正版本  
 ### 效果图展示
-![](https://github.com/DUTFangXiang/SLIC__superpixelSegmentation/blob/master/0007.jpg)  
-![](https://github.com/DUTFangXiang/SLIC__superpixelSegmentation/blob/master/0007_SLIC.jpg)  
+![](https://github.com/DUTFangXiang/SLIC__superpixelSegmentation/blob/master/0007.jpg "输入图像")
+![](https://github.com/DUTFangXiang/SLIC__superpixelSegmentation/blob/master/0007_SLIC.jpg "对称检测结果")
   
 ----------------------
 ### 说明
